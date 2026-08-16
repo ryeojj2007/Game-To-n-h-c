@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường 7 Hằng Đẳng Thức Đáng Nhớ - Math Adventure",
+  "description": "Web game toán học tương tác giúp học sinh ôn tập, ghi nhớ và làm chủ 7 Hằng Đẳng Thức Đáng Nhớ qua các mini game lật bài, điền chỗ trống, leo tháp săn Boss, đua tốc độ và giải toán AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
